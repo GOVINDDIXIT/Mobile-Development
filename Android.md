@@ -17,4 +17,3 @@
 1.  [Udacity Nanodegree Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 1.  [Google CodeLabs](https://codelabs.developers.google.com/?cat=Android)
 
-## For Experts
