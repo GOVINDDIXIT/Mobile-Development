@@ -1,10 +1,11 @@
 #### Mobile Development
 - [Android](#android)
 - [React Native](#react-native)
-- [Udacity Android Courses](./UdacityAndroid.md)
+- [Flutter](#flutter)
 - [Curated list of awesome Android libraries and resources](https://github.com/JStumpp/awesome-android) 
 - [Curated list of awesome Swift libraries and resources](https://github.com/matteocrippa/awesome-swift) 
-- [Curated list of awesome React libraries and resources](https://github.com/jondot/awesome-react-native) 
+- [Curated list of awesome React Native libraries and resources](https://github.com/jondot/awesome-react-native) 
+- [Curated list of awesome Flutter packages and resources](https://github.com/Solido/awesome-flutter)
 
 # Android
 
@@ -33,6 +34,14 @@
 1.  [Udacity Nanodegree Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 1.  [Google CodeLabs](https://codelabs.developers.google.com/?cat=Android)
 
+#### Youtube Channels
+- [Mindorks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
+- [Cheezy Code](https://www.youtube.com/channel/UCOknqk-MSOCf3SANW8Wumfg)
+- [EDMT Dev](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg)
+- [AWS Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug)
+
+----
+
 # React Native
 
 #### Roadmap for React Native
@@ -43,4 +52,18 @@
 
 ### For Beginners
   1.[React Native Tutorial: Building iOS Apps with JavaScript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
+  
+----
+
+# Flutter
+
+#### Roadmap for Flutter
+
+<img src="https://github.com/olexale/flutter_roadmap/raw/master/images/FlutterRoadmap.png">
+
+### Flutter Related Resources
+
+- [Free Resources to learn Flutter](https://medium.com/flutter-community/free-resources-to-learn-and-advance-in-flutter-e07875ffc825)
+
+
 
