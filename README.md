@@ -44,7 +44,7 @@
 
 # React Native
 
-#### Roadmap for React Native
+#### Roadmap for React quite similar to React Native
 
 <img src="roadmap_react_native.png">
 
